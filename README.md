@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TatianaTitarenko
-- 👀 I’m interested in big data analysis
+- 👋 Здравствуйте, я Татьяна.
+- 👀 Интересуюсь анализом больших данных.
+- 🔭 В настоящий момент работаю в АО "СЭБ Банк" (входит в группу Skandinaviska Enskilda Banken (SEB))
 
 
-<!---
-TatianaTitarenko/TatianaTitarenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connect with me:
+
+Telegram(https://t.me/ttitarenko)
+
