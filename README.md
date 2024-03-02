@@ -4,7 +4,7 @@
 
 
 ## Связь со мной: 
-[Telegram](https://t.me/ttitarenko).
+[Telegram](https://t.me/ttitarenko)
 
 ## Инструменты и языки:
 - Бисквит
