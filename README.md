@@ -4,4 +4,14 @@
 
 
 Связь со мной через [Telegram](https://t.me/ttitarenko)
+Инструменты и языки:
+
+- Бисквит
+- Diasoft
+- SWIFT Alliance
+- MS Office
+- Power Query
+- BI Tableau
+- Python (pandas, numpy, math, matplotlib, seaborn, plotly, BeautifulSoup)
+- SQL
 
